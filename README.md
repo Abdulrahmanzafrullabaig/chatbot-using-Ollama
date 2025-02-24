@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/5bb15cc1-ee74-4a87-83bb-c60aa77745fb)
 # Chatbot with Ollama, Deepseek, Qwen, Python, and Flask
 
 This repository contains the source code for a chatbot built using **Ollama**, **Deepseek**, and **Qwen** models. The chatbot runs entirely offline and is powered by **Python** and **Flask** to serve as a web-based interface.
